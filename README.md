@@ -1,6 +1,4 @@
-Here’s a **short, portfolio-friendly README** for your **Whack-A-Mole** project that focuses on your skills and what you built — not just how to play it.
 
-```markdown
 # Whack-A-Mole
 
 An interactive arcade game developed in **Microsoft MakeCode Arcade** using block-based logic compiled to TypeScript. The game challenges players to hit randomly appearing moles before they disappear, tracking scores and increasing difficulty over time.
@@ -24,7 +22,6 @@ An interactive arcade game developed in **Microsoft MakeCode Arcade** using bloc
 3. Paste:
 ```
 
-[https://github.com/tabithaz/Whack-A-Mole](https://github.com/tabithaz/Whack-A-Mole)
 
 ```
 4. Click **Run** to play instantly
