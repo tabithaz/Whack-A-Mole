@@ -1,33 +1,33 @@
- 
+Here’s a **short, portfolio-friendly README** for your **Whack-A-Mole** project that focuses on your skills and what you built — not just how to play it.
 
+```markdown
+# Whack-A-Mole
 
-> Open this page at [https://tabithaz.github.io/whack-a-mole/](https://tabithaz.github.io/whack-a-mole/)
+An interactive arcade game developed in **Microsoft MakeCode Arcade** using block-based logic compiled to TypeScript. The game challenges players to hit randomly appearing moles before they disappear, tracking scores and increasing difficulty over time.
 
-## Use as Extension
+## Highlights
+- Designed all core gameplay logic: random mole spawning, hit detection, score tracking, and timed game sessions
+- Implemented **event-driven programming** in MakeCode, translating block-based logic to clean TypeScript
+- Created and optimized **custom pixel art sprites** for moles, backgrounds, and UI
+- Configured difficulty scaling by adjusting mole spawn intervals as the game progresses
+- Built for **cross-platform deployment** — playable in browser or on MakeCode Arcade–compatible handheld devices
 
-This repository can be added as an **extension** in MakeCode.
+## Tech Stack
+- Microsoft MakeCode Arcade
+- TypeScript (auto-generated from block-based editor)
+- HTML/CSS/JavaScript (browser runtime)
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tabithaz/whack-a-mole** and import
+## Run the Game
+**Play in Browser:**
+1. Go to [MakeCode Arcade](https://arcade.makecode.com/)
+2. Click **Import → Import URL**
+3. Paste:
+```
 
-## Edit this project ![Build status badge](https://github.com/tabithaz/whack-a-mole/workflows/MakeCode/badge.svg)
+[https://github.com/tabithaz/Whack-A-Mole](https://github.com/tabithaz/Whack-A-Mole)
 
-To edit this repository in MakeCode.
+```
+4. Click **Run** to play instantly
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/tabithaz/whack-a-mole** and click import
+```
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/tabithaz/whack-a-mole/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
