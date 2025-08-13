@@ -19,12 +19,8 @@ An interactive arcade game developed in **Microsoft MakeCode Arcade** using bloc
 **Play in Browser:**
 1. Go to [MakeCode Arcade](https://arcade.makecode.com/)
 2. Click **Import → Import URL**
-3. Paste:
-
-https://github.com/tabithaz/Whack-A-Mole
-
+3. Paste: https://github.com/tabithaz/Whack-A-Mole
 4. Click **Run** to play instantly
 
-If you want, I can also add a “What I Learned” section to make this stand out even more in your GitHub portfolio. That section usually helps recruiters see skills gained rather than just tasks done.
 
 
